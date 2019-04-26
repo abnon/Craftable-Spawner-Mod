@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "csm:opal_ore" }
+    }
+}

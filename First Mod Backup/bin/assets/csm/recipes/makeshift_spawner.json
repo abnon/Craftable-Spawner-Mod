@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "IRI",
+        "RDR",
+        "IRI"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:redstone"
+        },
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "D":
+        {
+            "item": "minecraft:dispenser"
+        }
+    },
+   
+    "result":
+    {
+        "item": "csm:makeshift_spawner",
+        "count": 1
+    }
+}

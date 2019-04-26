@@ -1,0 +1,7 @@
+// Items
+item.wrench.name=Wrench
+item.opal.name=Opal
+
+// Blocks
+tile.makeshift_spawner.name=Makeshift Spawner
+tile.opal_ore.name=Opal Ore
